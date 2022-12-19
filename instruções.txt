@@ -1,0 +1,17 @@
+menu
+
+produzir = ApartmentState 0
+
+abrir o menu de maquinas = 1
+
+
+
+começa com um valor de dinheiro
+
+toda vez que clicar 0 ele ganha 1 real
+
+read key --> ao invez do readline
+
+
+as maquinas tem um preço, e quando clica 0, a quantidade de dinheiro que soma não é mais 1, vai aumentar
+pode ter várias maquinas de cada tipo
